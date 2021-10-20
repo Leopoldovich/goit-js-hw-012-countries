@@ -15,15 +15,7 @@ li {
   padding: 10px;
   font-size: 20px;
   width: 600px;
-  border: brown solid;
-}
-
-.country-input:hover,
-.country-input:focus {
   border: green solid;
-  transition-property: border;
-  transition-duration: var(--anim-transition-duration);
-  transition-timing-function: var(--anim-transition-timing-function);
 }
 
 .country-list {
